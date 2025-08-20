@@ -1,0 +1,3 @@
+This project is mostly me learning interpreter/compiler development using https://craftinginterpreters.com, but implementing it in C instead of Java.
+
+I aim to eventually write a compiler for the Lox language using the work demonstrated in jlox and clox.
